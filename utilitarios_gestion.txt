@@ -1,0 +1,7 @@
+Iniciar proyecto js.
+npm init -y
+Instalar librerias de express mysql2
+npm i express mysql2
+
+Instalar nodemon - ejecutar del servidor solo una vez
+npm i nodemon -D
